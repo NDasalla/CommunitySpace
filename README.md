@@ -1,8 +1,8 @@
-# WEB103 Project 3 - *Name of App Here*
+# WEB103 Project 3 - Community Space
 
-Submitted by: **Your name here**
+Submitted by: Nikko Dasalla
 
-About this web app: **App description here**
+About this web app: A virtual community space where users can find events happening at certain locations.
 
 Time spent: **X** hours
 
